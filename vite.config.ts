@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 80,
-    allowedHosts: ["godata.com.br", "www.godata.com.br"],
+    allowedHosts: ["compare.godata.com.br", "www.compare.godata.com.br"],
     hmr: {
       overlay: false,
     },
