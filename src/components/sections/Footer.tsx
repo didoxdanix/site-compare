@@ -27,7 +27,7 @@ export const Footer = () => {
               godata.com.br
             </a>
             <a 
-              href="https://linkedin.com/company/godata" 
+              href="https://linkedin.com/company/godata-tecnologia" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
